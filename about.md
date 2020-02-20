@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-Something about me.
+This website documents my activity and learning in OffSec
