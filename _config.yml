@@ -1,9 +1,9 @@
 title: Hacker-Blog
-description: "A Jekyll Blog Theme For Hackers"
+description: "A Blog Following My InfoSec Journey"
 author:
-  name: "SomeHacker"
+  name: "rowbot"
   email: "someone@somewebsite.somedomain"
-  url: "https://ashishchaudhary.in/hacker-blog"
+  url: "https://offsecnewbie.com"
 
 baseurl: /
 
@@ -28,5 +28,5 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "SomeHacker"
+owner : "rowbot"
 year : "2020"
