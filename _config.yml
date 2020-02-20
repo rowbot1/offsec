@@ -1,7 +1,7 @@
-title: Hacker-Blog
+title: OffSecNewbie.com
 description: "A Blog Following My InfoSec Journey"
 author:
-  name: "OffSecNewbie.com"
+  name: "rowbot"
   email: "rowbot@offsecnewbie.com"
   url: "https://offsecnewbie.com"
 
@@ -28,5 +28,5 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "offsecnewbie.com"
+owner : "OffSecNewbie.com"
 year : "2020"
